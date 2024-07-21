@@ -1,0 +1,5 @@
+--CREATE EXTENSION IF NOT EXISTS "pgcrypto";
+--
+--CREATE TABLE IF NOT EXISTS bla (
+--    id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+--);
